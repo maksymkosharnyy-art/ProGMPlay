@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		DDFFA2172F7418B6006CBB9E /* ProGMPlay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProGMPlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0707A2172F7418B6006CBB9E /* ProGMPlay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProGMPlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		DDFFA2192F7418B6006CBB9E /* ProGMPlay */ = {
+		0707A2192F7418B6006CBB9E /* ProGMPlay */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = ProGMPlay;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DDFFA2142F7418B6006CBB9E /* Frameworks */ = {
+		0707A2142F7418B6006CBB9E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DDFFA20E2F7418B6006CBB9E = {
+		0707A20E2F7418B6006CBB9E = {
 			isa = PBXGroup;
 			children = (
-				DDFFA2192F7418B6006CBB9E /* ProGMPlay */,
-				DDFFA2182F7418B6006CBB9E /* Products */,
+				0707A2192F7418B6006CBB9E /* ProGMPlay */,
+				0707A2182F7418B6006CBB9E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DDFFA2182F7418B6006CBB9E /* Products */ = {
+		0707A2182F7418B6006CBB9E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DDFFA2172F7418B6006CBB9E /* ProGMPlay.app */,
+				0707A2172F7418B6006CBB9E /* ProGMPlay.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DDFFA2162F7418B6006CBB9E /* ProGMPlay */ = {
+		0707A2162F7418B6006CBB9E /* ProGMPlay */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DDFFA2222F7418B8006CBB9E /* Build configuration list for PBXNativeTarget "ProGMPlay" */;
+			buildConfigurationList = 0707A2222F7418B8006CBB9E /* Build configuration list for PBXNativeTarget "ProGMPlay" */;
 			buildPhases = (
-				DDFFA2132F7418B6006CBB9E /* Sources */,
-				DDFFA2142F7418B6006CBB9E /* Frameworks */,
-				DDFFA2152F7418B6006CBB9E /* Resources */,
+				0707A2132F7418B6006CBB9E /* Sources */,
+				0707A2142F7418B6006CBB9E /* Frameworks */,
+				0707A2152F7418B6006CBB9E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				DDFFA2192F7418B6006CBB9E /* ProGMPlay */,
+				0707A2192F7418B6006CBB9E /* ProGMPlay */,
 			);
 			name = ProGMPlay;
 			packageProductDependencies = (
 			);
 			productName = ProGMPlay;
-			productReference = DDFFA2172F7418B6006CBB9E /* ProGMPlay.app */;
+			productReference = 0707A2172F7418B6006CBB9E /* ProGMPlay.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DDFFA20F2F7418B6006CBB9E /* Project object */ = {
+		0707A20F2F7418B6006CBB9E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2640;
 				LastUpgradeCheck = 2640;
 				TargetAttributes = {
-					DDFFA2162F7418B6006CBB9E = {
+					0707A2162F7418B6006CBB9E = {
 						CreatedOnToolsVersion = 26.4;
 					};
 				};
 			};
-			buildConfigurationList = DDFFA2122F7418B6006CBB9E /* Build configuration list for PBXProject "ProGMPlay" */;
+			buildConfigurationList = 0707A2122F7418B6006CBB9E /* Build configuration list for PBXProject "ProGMPlay" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = DDFFA20E2F7418B6006CBB9E;
+			mainGroup = 0707A20E2F7418B6006CBB9E;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = DDFFA2182F7418B6006CBB9E /* Products */;
+			productRefGroup = 0707A2182F7418B6006CBB9E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DDFFA2162F7418B6006CBB9E /* ProGMPlay */,
+				0707A2162F7418B6006CBB9E /* ProGMPlay */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		DDFFA2152F7418B6006CBB9E /* Resources */ = {
+		0707A2152F7418B6006CBB9E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DDFFA2132F7418B6006CBB9E /* Sources */ = {
+		0707A2132F7418B6006CBB9E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		DDFFA2202F7418B8006CBB9E /* Debug */ = {
+		0707A2202F7418B8006CBB9E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -160,7 +160,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 7SJ46G89S2;
+				DEVELOPGMENT_TEAM = 7SJ46G89S2;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -178,7 +178,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		DDFFA2212F7418B8006CBB9E /* Release */ = {
+		0707A2212F7418B8006CBB9E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -224,7 +224,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = 7SJ46G89S2;
+				DEVELOPGMENT_TEAM = 7SJ46G89S2;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -236,7 +236,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -246,21 +246,23 @@
 			};
 			name = Release;
 		};
-		DDFFA2232F7418B8006CBB9E /* Debug */ = {
+		0707A2232F7418B8006CBB9E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPGMENT_TEAM = 7SJ46G89S2;
 				DEVELOPMENT_TEAM = 7SJ46G89S2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -269,30 +271,36 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.kosharny.ProGMPlay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
-		DDFFA2242F7418B8006CBB9E /* Release */ = {
+		0707A2242F7418B8006CBB9E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPGMENT_TEAM = 7SJ46G89S2;
 				DEVELOPMENT_TEAM = 7SJ46G89S2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -301,37 +309,41 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.kosharny.ProGMPlay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DDFFA2122F7418B6006CBB9E /* Build configuration list for PBXProject "ProGMPlay" */ = {
+		0707A2122F7418B6006CBB9E /* Build configuration list for PBXProject "ProGMPlay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DDFFA2202F7418B8006CBB9E /* Debug */,
-				DDFFA2212F7418B8006CBB9E /* Release */,
+				0707A2202F7418B8006CBB9E /* Debug */,
+				0707A2212F7418B8006CBB9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DDFFA2222F7418B8006CBB9E /* Build configuration list for PBXNativeTarget "ProGMPlay" */ = {
+		0707A2222F7418B8006CBB9E /* Build configuration list for PBXNativeTarget "ProGMPlay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DDFFA2232F7418B8006CBB9E /* Debug */,
-				DDFFA2242F7418B8006CBB9E /* Release */,
+				0707A2232F7418B8006CBB9E /* Debug */,
+				0707A2242F7418B8006CBB9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DDFFA20F2F7418B6006CBB9E /* Project object */;
+	rootObject = 0707A20F2F7418B6006CBB9E /* Project object */;
 }

@@ -1,0 +1,65 @@
+# ProGM Play Asset Requirements (PGM)
+# Theme: Deep Purple (#1A0533), Navy Blue (#0B1437), Metallic Gold (#D4AF37)
+
+## App Icons
+1. AppIcon_PGM: Gold chess king crown on deep purple background, minimalist flat design.
+
+## UI Elements (Banners & Heroes)
+2. TrainingBanner_PGM: Abstract chessboard with glowing bishop piece and purple light rays. Used as the top banner on the Training tab.
+3. ChessRulesHero_PGM: A dramatic overhead view of a classical chess set on dark wood. Used in Chess Rules detail sheet header.
+4. ChampionsHero_PGM: A collage of silhouettes of famous chess players with a chessboard projected on the background, gold crown motif. Used in World Champions detail sheet header.
+5. HeroBanner_Academy_PGM: Abstract 3D composition of chess pieces and light rays symbolizing knowledge.
+6. OpeningTheory_PGM: Stylized chessboard with arrows showing classical opening moves (e4, d4, Nf3).
+7. MatchBanner_Play_PGM: High-tech 3D chess match scene with neon purple and gold highlights.
+8. PuzzleBanner_PGM: A single chess knight on a dramatic dark board with spotlight effect.
+9. ProgressHero_PGM: Ascending bar chart made of chess pieces, gold gradient.
+10. Achievement_Badge_PGM: Circular gold badge with shield and chess knight inside. Used for in-app achievements.
+
+## Onboarding Screen
+11. Onboarding_1_PGM: Conceptual image of "Logical thinking" through abstract chess patterns (not photorealistic).
+12. Onboarding_2_PGM: Purple glowing AI brain merging with chess notation — "AI Coaching" concept.
+13. Onboarding_3_PGM: Gold chess pieces ascending on a pedestal — "Mastery" theme.
+
+## Academy Article Images (Rich Longreads)
+14. academy_opening_center: A majestic golden board with a crowning king in the center - "Control the Center". Image for an article about chess
+15. academy_opening_najdorf: Obsidian and lava theme with sharp daggers and a black king - "Sicilian Najdorf". Image for an article about chess
+16. academy_opening_kid: A glowing knight jumping over a formation of dark pawns with sunset rays - "King's Indian". Image for an article about chess
+17. academy_opening_ruy: Royal Spanish tapestry background with gold-embossed bishops. Image for an article about chess
+18. academy_opening_qgd: Complex mechanical clockwork chessboard with gears. Image for an article about chess
+19. academy_mid_knights: Double exposure of a knight piece and a deep maze. Image for an article about chess
+20. academy_mid_pawns: A massive golden wall made of linked pawns protecting a king. Image for an article about chess
+21. academy_mid_pieces: Two bishops and two knights on a split gold/purple board. Image for an article about chess
+22. academy_mid_attack: A storm of tactical arrows hitting a white king, dramatic lighting. Image for an article about chess
+23. academy_mid_defense: A piece breaking through a stone wall, glowing with determination. Image for an article about chess
+24. academy_end_rooks: A rook on a dark pedestal, scanning the board like a lighthouse. Image for an article about chess
+25. academy_end_pawns: Close up of a silver pawn and a gold king in opposition. Image for an article about chess
+26. academy_end_queen: A queen piece glowing with divine light, dominating a single pawn. Image for an article about chess
+27. academy_end_bishops: Two bishops on opposite colored tiles, never meeting. Image for an article about chess
+28. academy_end_knights: A knight and a pawn in a race across a desert chessboard. Image for an article about chess
+29. academy_psy_karpov: Minimalist portrait of a focused mind overlooking a board. Image for an article about chess
+30. academy_psy_practical: A hand hovering over a complex board, choosing a golden path. Image for an article about chess
+31. academy_psy_time: A melting clock dripping onto a chessboard. Image for an article about chess
+32. academy_psy_blunder: A piece falling into a dark void with a golden hand reaching. Image for an article about chess
+33. academy_psy_will: The ProGM crown logo shattering a wall of glass pieces. Image for an article about chess
+34. weekly_wisdom_hero: A majestic cinematic shot of a golden board with a crowning king. Image for an article about chess
+
+## Library Masterpiece Game Images
+35. library_fischer_byrne: A dramatic 1950s-style scene — a young prodigy (13-year-old boy) playing chess against an older opponent in a New York tournament hall. Gold and purple tones, cinematic lighting, vintage atmosphere. "Game of the Century" text faintly visible. Illustration for an article about chess
+36. library_kasparov_topalov: An explosive chess battle scene — a dominant king piece unleashing energy bolts across the board. Dynamic angles, fire and gold effects. Represents Kasparov's Immortal game (1999). Deep purple and gold palette. Illustration for an article about chess
+37. library_morphy_opera: An elegant 19th-century Paris Opera House interior with a chess game in the foreground. Candlelit, baroque luxury, gold chess pieces on a mahogany board. Romantic era atmosphere, purple velvet curtains. Illustration for an article about chess
+38. library_fischer_spassky: A Cold War-era split composition — American flag and Soviet flag separated by a chessboard. Ice and fire motifs, dramatic tension, 1972 Reykjavik atmosphere. Deep purple sky, golden chess pieces. Illustration for an article about chess
+39. library_kasparov_deepblue: A human silhouette facing a towering computer/machine with glowing circuits. Chess pieces between them on a digital grid. Cyberpunk-meets-classical theme, purple neon and metallic gold. Illustration for an article about chess
+40. library_carlsen_anand: A modern minimalist scene — a young champion's hand making a precise move on a sleek glass chessboard. Clean, contemporary, with subtle gold accents and soft purple ambient lighting. Chennai 2013 atmosphere. Illustration for an article about chess
+
+## Progress Screen Images
+41. progress_hero: A stylized golden chess crown with ascending graph lines woven through it, symbolizing growth and mastery. Deep purple background with subtle particle effects. Used as the profile avatar on the Progress screen. Illustration for an article about chess
+
+## Training Tab Hero Images
+42. training_rules_hero: A dramatic overhead view of a classical chess set on dark wood with golden highlights and purple ambient lighting. Pieces arranged mid-game with emphasis on piece formations. Used as the hero banner on the Chess Rules detail sheet. Illustration for an article about chess
+43. training_champions_hero: A cinematic collage of chess championship moments — a dramatic table with two chairs, a chess clock, and golden crown motifs. Deep purple and gold palette with vintage film grain effect. Used as the hero banner on the World Champions detail sheet. Illustration for an article about chess
+
+## Onboarding Screen (Updated — 4 slides)
+44. onboarding_1: A warm, cinematic scene of a glowing AI chess coach (holographic figure) seated across from a player at a luxurious chessboard. Deep purple ambient lighting, gold particle effects, and a welcoming atmosphere. Represents "Your Personal AI Chess Coach." Full-screen background image for onboarding slide 1.
+45. onboarding_2: An action-packed split composition showing multiple chess scenarios — a puzzle board, a casual game, and a tournament match against an AI opponent. Dynamic angles with difficulty indicators (easy/medium/hard). Purple and gold palette with energetic lighting. Represents "Train, Solve & Battle AI." Full-screen background image for onboarding slide 2.
+46. onboarding_3: A grand library scene with towering bookshelves filled with chess literature, open books showing famous game diagrams, and hovering holographic replays of legendary matches (Fischer, Kasparov, Carlsen). Golden candlelight, baroque atmosphere, deep purple shadows. Represents "Deep Knowledge & Legendary Games." Full-screen background image for onboarding slide 3.
+47. onboarding_4: A reflective, personal moment — a player standing at the beginning of a glowing chess path that splits into three trails (beginner, intermediate, master). Symbolic journey imagery, golden glow from the horizon, deep purple sky with stars. Represents "Choose Your Level." Full-screen background image for onboarding slide 4.
