@@ -797,7 +797,7 @@ struct CustomSliderPGM: View {
                 Capsule().fill(Color.white.opacity(0.1)).frame(height: 8)
                 Capsule().fill(ThemePGM.goldGradient).frame(width: geometry.size.width * (value / 100), height: 8)
                 Circle().fill(ThemePGM.accentColor(for: viewModel.selectedTheme)).frame(width: 28, height: 28).offset(x: geometry.size.width * (value / 100) - 14)
-                    .gesture(DragGesture().onChanged { v in value = min(max(0, v.location.x / geometry.size.width * 100), 100) })
+                    .gesture(DragGesture().onChanged { v in value = min(max(0.0, v.location.x / geometry.size.width * 100.0), 100.0) })
             }
         }.frame(height: 28)
     }
