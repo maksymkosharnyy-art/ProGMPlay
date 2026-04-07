@@ -8,7 +8,8 @@ struct ProGMPlayApp: App {
     
     var body: some Scene {
         WindowGroup {
-            MainViewPGM()
+            RootViewMC()
+                .environmentObject(LoaderViewModel())
                 .environmentObject(viewModel)
                 .environmentObject(iap)
         }
